@@ -1,0 +1,9 @@
+c:\users\ramon\documents\visual studio 2012\Projects\ParceiroC\ParceiroC\obj\Debug\ParceiroC.Form1.resources
+c:\users\ramon\documents\visual studio 2012\Projects\ParceiroC\ParceiroC\obj\Debug\ParceiroC.Properties.Resources.resources
+c:\users\ramon\documents\visual studio 2012\Projects\ParceiroC\ParceiroC\obj\Debug\ParceiroC.csproj.GenerateResource.Cache
+c:\users\ramon\documents\visual studio 2012\Projects\ParceiroC\ParceiroC\bin\Debug\ParceiroC.exe.config
+c:\users\ramon\documents\visual studio 2012\Projects\ParceiroC\ParceiroC\bin\Debug\ParceiroC.exe
+c:\users\ramon\documents\visual studio 2012\Projects\ParceiroC\ParceiroC\bin\Debug\ParceiroC.pdb
+c:\users\ramon\documents\visual studio 2012\Projects\ParceiroC\ParceiroC\obj\Debug\ParceiroC.exe
+c:\users\ramon\documents\visual studio 2012\Projects\ParceiroC\ParceiroC\obj\Debug\ParceiroC.pdb
+c:\users\ramon\documents\visual studio 2012\Projects\ParceiroC\ParceiroC\obj\Debug\ParceiroC.csprojResolveAssemblyReference.cache

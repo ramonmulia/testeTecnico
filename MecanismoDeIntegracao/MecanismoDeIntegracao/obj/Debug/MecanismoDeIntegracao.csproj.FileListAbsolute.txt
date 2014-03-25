@@ -1,0 +1,5 @@
+C:\Users\RAMON\Documents\Visual Studio 2012\Projects\MecanismoDeIntegracao\MecanismoDeIntegracao\obj\Debug\MecanismoDeIntegracao.csprojResolveAssemblyReference.cache
+C:\Users\RAMON\Documents\Visual Studio 2012\Projects\MecanismoDeIntegracao\MecanismoDeIntegracao\bin\MecanismoDeIntegracao.dll
+C:\Users\RAMON\Documents\Visual Studio 2012\Projects\MecanismoDeIntegracao\MecanismoDeIntegracao\bin\MecanismoDeIntegracao.pdb
+C:\Users\RAMON\Documents\Visual Studio 2012\Projects\MecanismoDeIntegracao\MecanismoDeIntegracao\obj\Debug\MecanismoDeIntegracao.dll
+C:\Users\RAMON\Documents\Visual Studio 2012\Projects\MecanismoDeIntegracao\MecanismoDeIntegracao\obj\Debug\MecanismoDeIntegracao.pdb

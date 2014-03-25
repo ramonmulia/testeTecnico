@@ -1,0 +1,35 @@
+USE [EMPRESAXYZ]
+GO
+
+
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[TbCliente](
+	[Cliente_Id] [int] IDENTITY(1,1) NOT NULL,
+	[nome] [varchar](50) NULL,
+	[telefoneResidencial] [varchar](15) NULL,
+	[endereco] [varchar](200) NULL,
+	[datanascimento] [datetime] NULL,
+	[telefonecelular] [varchar](15) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Cliente_Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+  INSERT INTO [EMPRESAXYZ].[dbo].[TbCliente](nome,telefoneResidencial,endereco) VALUES('Ricardo','(35)3526-4569','Rua gonçalves dias, 810 - Centro - Belo horizonte/MG')
+  INSERT INTO [EMPRESAXYZ].[dbo].[TbCliente](nome,telefoneResidencial,endereco) VALUES('Ricardo','(35)3526-4569','Rua tupis, 320 - Centro - Belo Horizonte/MG')
+  INSERT INTO [EMPRESAXYZ].[dbo].[TbCliente](nome,telefoneResidencial,endereco) VALUES('Ricardo','(35)3526-4569','Rua da Bahia, 165 - Centro - Belo Horizonte/MG')
+
